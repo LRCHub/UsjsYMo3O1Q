@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブレインロット（feat. Kasane Teto）",
+  "base_artist": "東京真中",
+  "createdAt": "2026-03-15T04:36:03.640625Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブレインロット",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/pl_01_ブレインロット_東京真中.txt"
+    }
+  ]
+}
