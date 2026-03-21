@@ -1,9 +1,25 @@
 {
   "version": 1,
-  "base_track": "ブレインロット（feat. Kasane Teto）",
+  "base_track": "ブレインロット",
   "base_artist": "東京真中",
-  "createdAt": "2026-03-15T04:36:03.640625Z",
+  "createdAt": "2026-03-21T06:30:11.476373Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブレインロット",
+      "artist": "東京真中",
+      "has_synced": true,
+      "path": "select/01_ブレインロット_東京真中.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブレインロット - Brain Rot",
+      "artist": "Tokyo Manaka",
+      "has_synced": true,
+      "path": "select/02_ブレインロット_-_Brain_Rot_Tokyo_Manaka.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +27,15 @@
       "artist": "東京真中",
       "has_synced": false,
       "path": "select/pl_01_ブレインロット_東京真中.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ブレインロット",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/localdb_01_ブレインロット_東京真中.txt",
+      "repo_name": "UsjsYMo3O1Q"
     }
   ]
 }
