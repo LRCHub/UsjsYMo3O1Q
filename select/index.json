@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ブレインロット",
   "base_artist": "東京真中",
-  "createdAt": "2026-03-21T06:30:11.476373Z",
+  "createdAt": "2026-03-29T12:41:09.366594Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,7 +35,25 @@
       "artist": "東京真中",
       "has_synced": false,
       "path": "select/localdb_01_ブレインロット_東京真中.txt",
+      "repo_name": "YUH_JbHKkwM"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ブレインロット",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/localdb_02_ブレインロット_東京真中.txt",
       "repo_name": "UsjsYMo3O1Q"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "ブレインロット",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/localdb_03_ブレインロット_東京真中.txt",
+      "repo_name": "5UKasDmcCZ8"
     }
   ]
 }
